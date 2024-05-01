@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Maysie Ocera's personal portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maysieo/portfolio.git"
+  },
+  "author": "Maysie Mellette Ocera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maysieo/portfolio/issues"
+  },
+  "homepage": "https://github.com/maysieo/portfolio#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
